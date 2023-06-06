@@ -18,7 +18,7 @@ body {
 }
 
 /* Event form */
-.event-description {
+#event-description {
     background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
     url("../img/decoracao-de-sala-texto-3-Foto-de-Carlos-Piratininga-1-1-scaled.webp");
     background-position: center;
@@ -30,16 +30,16 @@ body {
     color: var(--text-color);
 }
 
-.disclaimer h2, .disclaimer .event-date {
+#disclaimer h2, #disclaimer .event-date {
     color: var(--primary);
 }
 
-.disclaimer h2 {
+#disclaimer h2 {
     font-size: 3em;
     margin-bottom: 1em;
 }
 
-.disclaimer .about-event {
+#disclaimer .about-event {
     font-size: 2em;
     text-transform: uppercase;
     max-width: 350px;
@@ -47,12 +47,12 @@ body {
     margin-bottom: 1em;
 }
 
-.disclaimer p {
+#disclaimer p {
     font-size: 1.2em;
     margin-bottom: 0.3em;
 }
 
-.disclaimer .event-date {
+#disclaimer .event-date {
     font-weight: bold;
 }
 
