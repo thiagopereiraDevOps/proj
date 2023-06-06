@@ -147,7 +147,7 @@ body {
 }
 
 /* Event location */
-.location {
+#location {
     height: 400px;
     background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
     url("../img/saiba-ja-como-decorar-cada-comodo-da-casa-com-perfeicao.jpeg");
